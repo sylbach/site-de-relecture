@@ -2,4 +2,4 @@ User-agent: *
 Disallow: /wp-admin/
 Allow: /wp-admin/admin-ajax.php
 
-Sitemap: http://vous-relire-et-vous-accompagner.fr/wp-sitemap.xml
+Sitemap: https://sylbach.github.io/site-de-relecture/wp-sitemap.xml
